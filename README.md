@@ -1,7 +1,7 @@
 # AWS Solutions Architect
 
 ### Technical Skills: AWS, Cisco, Python, Javascript
-### Languages: Spanish (native) and English (full proficiency - TOIEC 880)
+### Languages: Spanish (native) and English (TOIEC 880)
 
 ## Education  
 - M.D., IT Management | The University of La Salle at Spain (_May 2015_)							
@@ -9,18 +9,26 @@
 - Technical Engineering, Computer Systems | The University of Seville at Spain (_December 2008_)
 
 ## Certifications
-- AWS Solutions Architect - Professional (_November 2023_)
-- AWS Developer - Associate (_May 2023_)
-- AWS SysOps Administrator - Associate (_March 2023_)
-- AWS Solutions Architect - Associate (_Febreruary 2023_)
+- AWS Solutions Architect Professional (_November 2023_)
+- AWS Developer Associate (_May 2023_)
+- AWS SysOps Administrator Associate (_March 2023_)
+- AWS Solutions Architect Associate (_Febreruary 2023_)
 - AWS Cloud Practitioner (_November 2022_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**IT Governance and Process Manager @ Exolum (_December 2020 - April 2022_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+**Digital Workplace Manager @ CLH (_July 2017 - November 2020_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
+**IT Service Desk and Support Manager @ CLH (_October 2012 - June 2017_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
+**IT Support Engineer  @ CLH (_June 2009 - October 2012_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
