@@ -9,11 +9,11 @@
 - Technical Engineering, Computer Systems | The University of Seville at Spain (_December 2008_)
 
 ## Certifications
-· AWS Solutions Architect - Professional (_November 2023_)
-· AWS Developer - Associate (_May 2023_)
-· AWS SysOps Administrator - Associate (_March 2023_)
-· AWS Solutions Architect - Associate (_Febreruary 2023_)
-· AWS Cloud Practitioner (_November 2022_)
+- AWS Solutions Architect - Professional (_November 2023_)
+- AWS Developer - Associate (_May 2023_)
+- AWS SysOps Administrator - Associate (_March 2023_)
+- AWS Solutions Architect - Associate (_Febreruary 2023_)
+- AWS Cloud Practitioner (_November 2022_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
