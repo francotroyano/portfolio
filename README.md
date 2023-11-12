@@ -1,12 +1,11 @@
 # AWS Solutions Architect
 
 ### Technical Skills: AWS, Cisco, Python, Javascript
-### Languages: Spanish (native) and English (TOIEC 880)
 
 ## Education  
-- M.D., IT Management | The University of La Salle at Spain (_May 2015_)							
-- Postgraduate Degree, CISCO Networking Tecnhnologies | The University Oberta of Catalanya at Spain (_May 2012_)	 			        		
-- Technical Engineering, Computer Systems | The University of Seville at Spain (_December 2008_)
+- M.D., IT Management | University of La Salle at Spain (_May 2015_)							
+- Postgraduate D., CISCO Networking Tecnhnologies | University Oberta of Catalanya (_May 2012_)	 			        		
+- Technical Engineering, Computer Systems | University of Seville at Spain (_December 2008_)
 
 ## Certifications
 - AWS Solutions Architect Professional (_November 2023_)
@@ -14,6 +13,10 @@
 - AWS SysOps Administrator Associate (_March 2023_)
 - AWS Solutions Architect Associate (_Febreruary 2023_)
 - AWS Cloud Practitioner (_November 2022_)
+
+## Languages
+- Spanish | Native							
+- English | Full proficiency (_TOIEC 880_)	 			
 
 ## Work Experience
 **IT Governance and Process Manager @ Exolum (_December 2020 - April 2022_)**
