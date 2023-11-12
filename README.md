@@ -3,9 +3,9 @@
 ### Technical Skills: AWS, Cisco, Python, Javascript
 
 ## Education  
-- M.D., IT Management | University of La Salle at Spain (_May 2015_)							
-- Postgraduate D., CISCO Networking Tecnhnologies | University Oberta of Catalanya (_May 2012_)	 			        		
-- Technical Engineering, Computer Systems | University of Seville at Spain (_December 2008_)
+- M.D., IT Management | University La Salle at Spain (_May 2015_)							
+- Postgraduate D., CISCO Networking Tecnhnologies | University Oberta of Catalunya (_May 2012_)	 			    
+- Technical Engineering, Computer Systems | University of Seville (_December 2008_)
 
 ## Certifications
 - AWS Solutions Architect Professional (_November 2023_)
