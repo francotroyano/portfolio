@@ -43,7 +43,6 @@
 - Implementación automatización actualizaciones servidores Windows.
 - Gestión de la configuración de PCs
 - Gestión del servicio
--
 
 **IT Support Engineer  @ CLH (_June 2009 - October 2012_)**
 - Obra Algeciras
