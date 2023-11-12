@@ -17,18 +17,40 @@
 
 ## Work Experience
 **IT Governance and Process Manager @ Exolum (_December 2020 - April 2022_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Definición de Framework de Gobierno.
+- Definición de mínimos estándares como marco de referencia de infraestructuras y operaciones de IT.
+- Business Intelligence
+- Definición, implementación y puesta en marcha (información, concienciación y formación) de procesos:
+-   Gestión de la demanda + gestión de la capacidad (recursos humanos) + gestión de proyectos
+-   Gestión de la información
+-   Gestión de la configuración (CMDB)
+-   Modelo de control y seguimiento de gobierno con el equipo de Dirección.
+-   Renovación de contrato licencias y servisios de Microsoft - negociado con 30% de reducción frente a contrato de año anterior.
+-   Gestión del servicio - equipo de 5 personas.
+-   
 
 **Digital Workplace Manager @ CLH (_July 2017 - November 2020_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Migración Windows
+- PeM Office 365 - herramientas de trabajo colaborativas
+- Representación de la dirección en el comité de comunicación de la compañía.
+- Proyecto Oficina de transformación - proyecto digitalización de la compañía:
+  - Definición, implementación y puesta en marcha del modelo de puesto de trabajo digital.
+  - Definición,  implementación y puesta en marcha del modelo de salas de reuniones.
+  - Obra del edificio
 
 **IT Service Desk and Support Manager @ CLH (_October 2012 - June 2017_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Migración Windows
+- Implementación automatización actualizaciones servidores Windows.
+- Gestión de la configuración de PCs
+- Gestión del servicio
+-
 
 **IT Support Engineer  @ CLH (_June 2009 - October 2012_)**
+- Obra Algeciras
+- Gestión problemas físicos comunicaciones
+- Evolución OS switches
+- Coordinación paradas plantas intervenciones
+- 
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
