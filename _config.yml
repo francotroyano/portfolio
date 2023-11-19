@@ -13,11 +13,11 @@ description: Team Leadership          [###########]
 description: AWS Solutions Architect  [########## ]
 description: AWS Sysops               [#########  ]
 description: AWS Devops               [#######    ]
-description:   - HTML                 [#######    ]
-description:   - CSS                  [#######    ]
-description:   - Javascript           [#####      ]
-description:   - Python               [#######    ]
-description:   - React                [#####      ]
+description:     HTML                 [#######    ]
+description:     CSS                  [#######    ]
+description:     Javascript           [#####      ]
+description:     Python               [#######    ]
+description:     React                [#####      ]
 
 description: Languages
 description: Spanish (100%)
