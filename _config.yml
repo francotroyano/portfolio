@@ -1,5 +1,6 @@
 title: Paco Troyano
 logo: /assets/img/headshot_circle.png
 description: Project Manager & AWS Solutions Architect
+timezone: TIMEZONE
 show_downloads: true
 theme: jekyll-theme-minimal
