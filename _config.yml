@@ -2,26 +2,26 @@ title: Paco Troyano
 logo: /assets/img/headshot_circle.png
 description: Project Manager & AWS Solutions Architect
 
-Seville (Spain)
-pacogonzalez@gmail.com
-https://www.linkedin.com/in/franciscogonzaleztroyano/
+description: Seville (Spain)
+description: pacogonzalez@gmail.com
+description: https://www.linkedin.com/in/franciscogonzaleztroyano/
 
-Skills
-Project Management       [###########]
-Service Management       [###########]
-Team Leadership          [###########]
-AWS Solutions Architect  [########## ]
-AWS Sysops               [#########  ]
-AWS Devops               [#######    ]
-  - HTML                 [#######    ]
-  - CSS                  [#######    ]
-  - Javascript           [#####      ]
-  - Python               [#######    ]
-  - React                [#####      ]
+description: Skills
+description: Project Management       [###########]
+description: Service Management       [###########]
+description: Team Leadership          [###########]
+description: AWS Solutions Architect  [########## ]
+description: AWS Sysops               [#########  ]
+description: AWS Devops               [#######    ]
+description:   - HTML                 [#######    ]
+description:   - CSS                  [#######    ]
+description:   - Javascript           [#####      ]
+description:   - Python               [#######    ]
+description:   - React                [#####      ]
 
-Languages
-Spanish (100%)
-English (90%)
+description: Languages
+description: Spanish (100%)
+description: English (90%)
 
 
 show_downloads: false
