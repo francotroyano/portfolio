@@ -3,25 +3,24 @@ logo: /assets/img/headshot_circle.png
 email: pacogonzalez@gmail.com
 twitter_username: galfordss
 description: >-
-  Project Manager & AWS Solutions Architect
+  Project Manager & AWS Solutions Arch.
   Seville (Spain)
-  https://www.linkedin.com/in/franciscogonzaleztroyano/
+description: >-  
   Skills
-  Project Management       [###########]
-  Service Management       [###########]
-  Team Leadership          [###########]
-  AWS Solutions Architect  [########## ]
-  AWS Sysops               [#########  ]
-  AWS Devops               [#######    ]
-    HTML                 [#######    ]
-    CSS                  [#######    ]
-    Javascript           [#####      ]
-    Python               [#######    ]
-    React                [#####      ]
+  Project Mngmt   [####]
+  Service Mngmt   [####]
+  Team Leader     [####]
+  AWS Sol. Arc.   [### ]
+  AWS Sysops      [##  ]
+  AWS Devops      [##  ]
+    HTML          [#######    ]
+    CSS           [#######    ]
+    Javascript    [#####      ]
+    Python        [#######    ]
+    React         [#####      ]
+description: >-
   Languages
   Spanish (100%)
   English (90%)
-
-
 show_downloads: false
 theme: jekyll-theme-minimal
