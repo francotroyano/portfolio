@@ -3,8 +3,8 @@
 ## Skills
   - Project Mngmt   [####]
   - Service Mngmt   [####]
-  - Team Leader     [####]
-  - AWS Sol. Arc.   [### ]
+  - Team Leader       [####]
+  - AWS Sol. Arc.     [### ]
   - AWS Sysops      [##  ]
   - AWS Devops      [##  ]
     - HTML          [#   ]
