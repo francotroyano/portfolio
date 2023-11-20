@@ -6,7 +6,7 @@
   - Team Leadership -----------> [#####]
   - AWS Solutions Architect ---> [#### ]
   - AWS Sysops ----------------> [##  ]
-  - AWS Devops ----------------> [##  ]
+  - AWS Devops ---------------> [##  ]
     - HTML _____ [#   ]
     - CSS _______ [#   ]
     - Javascript [#   ]
