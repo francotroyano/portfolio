@@ -1,38 +1,11 @@
 # Project Manager & AWS Solutions Architect
 
 ## Skills
-![EEG Band Discovery](/assets/img/skills.jpeg)
-  
-  
-  - Project Managegment ------> [#####]
-  - Service Management -------> [#####]
-  - Team Leadership -----------> [#####]
-  - AWS Solutions Architect ---> [#### ]
-  - AWS Sysops ----------------> [##  ]
-  - AWS Devops ---------------> [##  ]
-    - HTML _____ [#   ]
-    - CSS _______ [#   ]
-    - Javascript [#   ]
-    - Python ___ [#   ]
-    - React ____ [#   ]
-
-### Technical Skills: AWS, Cisco, Python, Javascript
-
-## Education  
-- M.D., IT Management | University La Salle at Spain (_May 2015_)							
-- Postgraduate D., CISCO Networking Tecnhnologies | University Oberta of Catalunya (_May 2012_)	 			    
-- Technical Engineering, Computer Systems | University of Seville (_December 2008_)
-
-## Certifications
-- AWS Solutions Architect Professional (_November 2023_)
-- AWS Developer Associate (_May 2023_)
-- AWS SysOps Administrator Associate (_March 2023_)
-- AWS Solutions Architect Associate (_Febreruary 2023_)
-- AWS Cloud Practitioner (_November 2022_)
+![skills](/assets/img/skills.jpeg)
 
 ## Languages
 - Spanish | Native							
-- English | Full proficiency (_TOIEC 880_)	 			
+- English | Full proficiency (_TOIEC 880_)	 
 
 ## Work Experience
 **IT Governance and Process Manager @ Exolum (_December 2020 - April 2022_)**
@@ -46,7 +19,7 @@
 -   Modelo de control y seguimiento de gobierno con el equipo de Dirección.
 -   Renovación de contrato licencias y servisios de Microsoft - negociado con 30% de reducción frente a contrato de año anterior.
 -   Gestión del servicio - equipo de 5 personas.
--   
+  
 
 **Digital Workplace Manager @ CLH (_July 2017 - November 2020_)**
 - Migración Windows
@@ -71,6 +44,21 @@
 - 
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
+## Education  
+- M.D., IT Management | University La Salle at Spain (_May 2015_)							
+- Postgraduate D., CISCO Networking Tecnhnologies | University Oberta of Catalunya (_May 2012_)	 			    
+- Technical Engineering, Computer Systems | University of Seville (_December 2008_)
+
+## Certifications
+- AWS Solutions Architect Professional (_November 2023_)
+- AWS Developer Associate (_May 2023_)
+- AWS SysOps Administrator Associate (_March 2023_)
+- AWS Solutions Architect Associate (_Febreruary 2023_)
+- AWS Cloud Practitioner (_November 2022_)
+
+			
+
 
 ## Projects
 ### CICD Pipeline - NodeJS App en Elastic Beanstalk
