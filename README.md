@@ -1,9 +1,9 @@
 # Project Manager & AWS Solutions Architect
 
 ## Skills
-  - Project Mngmt   [####]
-  - Service Mngmt   [####]
-  - Team Leader       [####]
+  - Project Managegment -------> [####]
+  - Service Management  -------> [####]
+  - Team Leadership -----------> [####]
   - AWS Sol. Arc.     [### ]
   - AWS Sysops      [##  ]
   - AWS Devops      [##  ]
