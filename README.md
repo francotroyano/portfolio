@@ -1,7 +1,7 @@
-# Project Manager & AWS Cloud Architect
+# IT Project Manager & AWS Cloud Architect
 
 ## Profile
-Computer Engineer with over 10 years of robust experience successfully managing projects, services, and teams. Recognized for a proactive approach and leadership skills in guiding teams towards goal achievement. Certified as an AWS Solutions Architect Professional, I possess in-depth knowledge in implementing innovative and efficient technological solutions. My track record includes the successful execution of complex projects, optimizing resources, and ensuring the delivery of high-quality solutions.
+Computer Engineer with over 10 years of robust experience successfully managing projects, services, and teams. Certified as an AWS Solutions Architect Professional, I possess in-depth knowledge in implementing innovative and efficient technological solutions. My track record includes the successful execution of complex projects, optimizing resources, and ensuring the delivery of high-quality solutions.
 
 ## Skills
 ![skills](/assets/img/skills.jpeg)
@@ -22,7 +22,6 @@ Computer Engineer with over 10 years of robust experience successfully managing 
 -   Modelo de control y seguimiento de gobierno con el equipo de Dirección.
 -   Renovación de contrato licencias y servisios de Microsoft - negociado con 30% de reducción frente a contrato de año anterior.
 -   Gestión del servicio - equipo de 5 personas.
-  
 
 **Digital Workplace Manager @ CLH (_July 2017 - November 2020_)**
 - Migración Windows
@@ -44,10 +43,7 @@ Computer Engineer with over 10 years of robust experience successfully managing 
 - Gestión problemas físicos comunicaciones
 - Evolución OS switches
 - Coordinación paradas plantas intervenciones
-- 
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
+  
 ## Education  
 - M.D., IT Management | University La Salle at Spain (_May 2015_)							
 - Postgraduate D., CISCO Networking Tecnhnologies | University Oberta of Catalunya (_May 2012_)	 			    
