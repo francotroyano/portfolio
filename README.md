@@ -57,7 +57,11 @@
 - AWS Solutions Architect Associate (_Febreruary 2023_)
 - AWS Cloud Practitioner (_November 2022_)
 
-			
+## Strengths
+- Communication
+- Responsible
+- Adaptable
+- Team oriented			
 
 
 ## Projects
