@@ -3,10 +3,8 @@ logo: /assets/img/headshot_circle.png
 description: >-
 Project Manager & AWS Solutions Arch.
 Seville (Spain)
-Languages
-Spanish (100%)
-English (90%)
 email: pacogonzalez@gmail.com
 twitter_username: galfordss
 show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal
