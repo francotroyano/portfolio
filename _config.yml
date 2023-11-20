@@ -1,11 +1,8 @@
 title: Paco Troyano
 logo: /assets/img/headshot_circle.png
-email: pacogonzalez@gmail.com
-twitter_username: galfordss
 description: >-
   Project Manager & AWS Solutions Arch.
   Seville (Spain)
-description: >-  
   Skills
   Project Mngmt   [####]
   Service Mngmt   [####]
@@ -13,14 +10,16 @@ description: >-
   AWS Sol. Arc.   [### ]
   AWS Sysops      [##  ]
   AWS Devops      [##  ]
-    HTML          [#######    ]
-    CSS           [#######    ]
-    Javascript    [#####      ]
-    Python        [#######    ]
-    React         [#####      ]
-description: >-
-  Languages
-  Spanish (100%)
-  English (90%)
+    HTML          [#   ]
+    CSS           [#   ]
+    Javascript    [#   ]
+    Python        [#   ]
+    React         [#   ]
+
+#  Languages
+#  Spanish (100%)
+#  English (90%)
+email: pacogonzalez@gmail.com
+twitter_username: galfordss
 show_downloads: false
 theme: jekyll-theme-minimal
