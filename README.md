@@ -1,6 +1,9 @@
 # Project Manager & AWS Solutions Architect
 
 ## Skills
+![EEG Band Discovery](/assets/img/skills.jpeg)
+  
+  
   - Project Managegment ------> [#####]
   - Service Management -------> [#####]
   - Team Leadership -----------> [#####]
