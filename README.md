@@ -1,17 +1,17 @@
 # Project Manager & AWS Solutions Architect
 
 ## Skills
-  - Project Managegment -------> [####]
-  - Service Management  -------> [####]
-  - Team Leadership -----------> [####]
-  - AWS Sol. Arc.     [### ]
-  - AWS Sysops      [##  ]
-  - AWS Devops      [##  ]
-    - HTML          [#   ]
-    - CSS           [#   ]
-    - Javascript    [#   ]
-    - Python        [#   ]
-    - React         [#   ]
+  - Project Managegment ------> [#####]
+  - Service Management -------> [#####]
+  - Team Leadership ----------> [#####]
+  - AWS Solutions Architect --> [#### ]
+  - AWS Sysops ---------------> [##  ]
+  - AWS Devops ---------------> [##  ]
+    - HTML _____ [#   ]
+    - CSS ______ [#   ]
+    - Javascript [#   ]
+    - Python ___ [#   ]
+    - React ____ [#   ]
 
 ### Technical Skills: AWS, Cisco, Python, Javascript
 
