@@ -1,4 +1,7 @@
-# Project Manager & AWS Solutions Architect
+# Project Manager & AWS Cloud Architect
+
+## Profile
+Computer Engineer with over 10 years of robust experience successfully managing projects, services, and teams. Recognized for a proactive approach and leadership skills in guiding teams towards goal achievement. Certified as an AWS Solutions Architect Professional, I possess in-depth knowledge in implementing innovative and efficient technological solutions. My track record includes the successful execution of complex projects, optimizing resources, and ensuring the delivery of high-quality solutions.
 
 ## Skills
 ![skills](/assets/img/skills.jpeg)
